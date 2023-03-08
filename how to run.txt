@@ -1,0 +1,11 @@
+①　Run the BallDetect.py file.
+
+②　When you want to change the identity color, open the file controlDriver.py. 
+from line number 44 to line 52. change the value of iRo corresponding to the color you want to search.
+#Green is 0
+#Organce is 2
+#Blue is 4
+#Pink is 6
+#Yellow is 8
+#Brown is 10
+eg: green then the value of iRo = 0.
